@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Ramya P</h3>
-<h3>Register Number/Staff Id: 212223230168</h3>
+<h3>Name: Piritharaman P</h3>
+<h3>Register Number/Staff Id: 212223230148</h3>
 
 
 <h3>AIM:</h3>
